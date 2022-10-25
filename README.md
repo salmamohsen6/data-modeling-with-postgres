@@ -17,9 +17,8 @@ python create_tables.py
 ```bash
 python etl.py
 ```
-```bash
-python sql_quaries.py
-```
+
+
 ## explanation of the files in the repository
 the repository has five files:
 
